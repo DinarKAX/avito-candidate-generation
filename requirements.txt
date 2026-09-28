@@ -1,0 +1,12 @@
+pandas==3.0.6
+pyarrow==25.0.1
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.1
+pymorphy3==2.0.6
+tqdm==4.70.1
+torch==2.14.0
+sentence-transformers==6.1.0
+transformers==5.17.0
+catboost==1.2.10
+certifi==2026.7.22
